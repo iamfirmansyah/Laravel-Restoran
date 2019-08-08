@@ -1,3 +1,4 @@
+![DESAIN HOME](https://user-images.githubusercontent.com/45587433/62672750-11836e00-b9c6-11e9-977d-1619355cbc55.jpg)
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
